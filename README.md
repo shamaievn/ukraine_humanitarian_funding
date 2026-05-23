@@ -19,10 +19,10 @@ Interactive dashboard with two pages:
 
 ### Page 1: Mine Action Analysis
 ![Page 1](./images/page1_mine_action_funding_analysis_2022.png)
-![Page 1](./page1_mine_action_2025.png)
+![Page 1](./images/page1_mine_action_funding_analysis_2025.png)
 
 ### Page 2: All Sectors Overview
-![Page 2](./page2_overview_2025.png)
+![Page 2](./images/page2_humanitarian_clusters_overview_2025.png)
 
 ---
 
