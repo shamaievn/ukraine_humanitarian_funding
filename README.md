@@ -46,9 +46,13 @@ Interactive dashboard with two pages:
 
 ## Files
 
-- `dashboard.pbix` — Power BI file (interactive)
-- `sql/` — Data preparation queries
-- `images/` — Screenshots
+- **[`dashboard.pbix`](./dashboard.pbix)** — Interactive Power BI dashboard
+- **[`sql/`](./sql/)** — Data preparation queries (PostgreSQL)
+  - [`02_share_analysis.sql`](./sql/02_share_analysis.sql) — Mine Action share trends
+  - [`03_growth_analysis.sql`](./sql/03_growth_analysis.sql) — Top 5 clusters by absolute funding growth
+  - [`04_funding_gap.sql`](./sql/04_funding_gap.sql) — Funding adequacy analysis
+  - [`05_all_clusters_summary.sql`](./sql/05_all_clusters_summary.sql) — Aggregate statistics
+- **[`images/`](./images/)** — Dashboard screenshots (Page 1, Page 2)
 
 ---
 
