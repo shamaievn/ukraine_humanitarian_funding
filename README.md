@@ -18,7 +18,7 @@ Interactive dashboard with two pages:
 ## Preview
 
 ### Page 1: Mine Action Analysis
-![Page 1](./page1_mine_action_2022.png)
+![Page 1](./images/page1_mine_action_funding_analysis_2022.png)
 ![Page 1](./page1_mine_action_2025.png)
 
 ### Page 2: All Sectors Overview
