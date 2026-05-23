@@ -74,7 +74,7 @@ Interactive dashboard with two pages:
 
 ## Data Source
 
-[OCHA FTS via HDX](https://data.humdata.org/dataset/ukraine-requirements-and-funding-data)
+[OCHA FTS via HDX](https://data.humdata.org/dataset/ukr-requirements-and-funding-data)
 
 **Note:** FTS tracks UN-coordinated appeals. Additional funding may flow through bilateral programs not shown here.
 
