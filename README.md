@@ -1,5 +1,9 @@
 # Ukraine Mine Action Funding Analysis
 
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 Power BI dashboard analyzing Mine Action funding in Ukraine (2014-2026) using OCHA FTS data.
 
 ---
