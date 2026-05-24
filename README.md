@@ -21,8 +21,10 @@ Interactive dashboard with two pages:
 
 ## Preview
 
-### Page 1: Mine Action Analysis
+### Page 1: Mine Action Analysis (2022 Emergency Phase)
 ![Page 1](./images/page1_mine_action_funding_analysis_2022.png)
+
+### Page 1: Mine Action Analysis (2025 Recovery)
 ![Page 1](./images/page1_mine_action_funding_analysis_2025.png)
 
 ### Page 2: All Sectors Overview
@@ -53,7 +55,7 @@ Interactive dashboard with two pages:
 - **[`dashboard.pbix`](./dashboard.pbix)** — Interactive Power BI dashboard
 - **[`sql/`](./sql/)** — Data preparation queries (PostgreSQL)
   - [`02_share_analysis.sql`](./sql/02_share_analysis.sql) — Mine Action share trends
-  - [`03_growth_analysis.sql`](./sql/03_growth_analysis.sql) — Top 5 clusters by absolute funding growth
+  - [`03_growth_analysis.sql`](./sql/03_growth_analysis.sql) — Top clusters by growth
   - [`04_funding_gap.sql`](./sql/04_funding_gap.sql) — Funding adequacy analysis
   - [`05_all_clusters_summary.sql`](./sql/05_all_clusters_summary.sql) — Aggregate statistics
 - **[`images/`](./images/)** — Dashboard screenshots (Page 1, Page 2)
@@ -104,4 +106,8 @@ Power BI Desktop (data modeling, DAX measures, visualizations)
 ## Contact
 
 Nikita Shamaiev  
-[LinkedIn](https://linkedin.com/in/nikita-shamaiev)
+[LinkedIn](https://linkedin.com/in/nikita-shamaiev) | shamaiev.n@gmail.com
+
+---
+ 
+*Portfolio project demonstrating SQL data preparation, Power BI dashboard development, and humanitarian sector analysis.*
