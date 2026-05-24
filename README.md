@@ -82,13 +82,13 @@ Interactive dashboard with two pages:
 
 ### Data Pipeline
 HDX Dataset
-↓
+→
 PostgreSQL Database
-↓
+→
 SQL Queries (aggregation, filtering, calculations)
-↓
+→
 CSV Exports
-↓
+→
 Power BI Desktop (data modeling, DAX measures, visualizations)
 
 ---
