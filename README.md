@@ -4,7 +4,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
 
-SQL Queries preparing data and Power BI dashboard analyzing Mine Action funding in Ukraine (2014-2026) using OCHA FTS data.
+SQL Queries preparing data and Power BI dashboard analyzing Mine Action and all humanitarian clusters funding in Ukraine (2014-2026) using OCHA FTS data.
 
 ---
 
